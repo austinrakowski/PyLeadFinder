@@ -1,6 +1,6 @@
 # PyLeadFinder
 
-Find and enrich business leads using Google Places API with ZIP code optimization. Optionally includes email extraction via website scraping.
+Find and enrich business leads using Google Places API with ZIP code optimization. Optionally includes email extraction via web scraping.
 
 https://pypi.org/project/pyleadfinder/0.1.0/
 
@@ -129,3 +129,4 @@ See [examples/](examples/) directory for working examples of all three modes.
 ## License
 
 MIT License - Copyright 2025 Austin Rakowski
+
